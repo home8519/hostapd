@@ -1,5 +1,5 @@
 FROM alpine:3.5
-LABEL maintainer "vmizzle@gmail.com"
+LABEL maintainer ""
 
 ENV HOSTAPD_VERSION=2.6-r0
 
